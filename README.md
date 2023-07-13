@@ -6,3 +6,4 @@
  - Laravel v10.8
  - CSS Bootstrap
  - MySql
+ - HTML/CSS
